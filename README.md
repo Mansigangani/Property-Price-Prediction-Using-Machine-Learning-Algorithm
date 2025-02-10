@@ -1,6 +1,6 @@
 # Property-Price-Prediction-Using-Machine-Learning-Algorithm
 This project aims to predict property prices using various machine learning algorithms. It involves handling missing values, encoding categorical data, and applying different regression techniques to determine the best-performing model.
-
+ 
 📝 Dataset & Preprocessing
 Missing values were handled appropriately.
 Categorical variables were processed using One-Hot Encoding (OHE) and Label Encoding.
@@ -30,7 +30,7 @@ Deploying the model using Flask or Streamlit for real-world use.
 👤 Author
 Mansi Gangani
 👨‍💻 Data Science & Machine Learning Enthusiast
-📧 [Your Email]
+📧 [mansigangani18@gmail.com]
 🔗 [LinkedIn Profile
 
 
